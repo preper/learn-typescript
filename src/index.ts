@@ -6,6 +6,7 @@ import './class'
 import './class-interface'
 import './generics'
 import './advanced'
+import './other'
 
 let hello:string = 'Hello Typescript!'
 
